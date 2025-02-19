@@ -6,13 +6,13 @@
 ### <div align="center">I'm Edzer Dionido, an aspiring Full-Stack Developer 👨‍💻 grinding my way to the industry since 2023 🚀</div>  
   
 
-- 🔬 I’m currently studying Laravel and tons load of tech stuffs  
+- 🔬 I’m currently studying relevant TECHNOLOGIES today and tons load of tech stuffs  
   
 
 - 🌱 I’m continually growing and seeking wisdom   
   
 
-- ❓ Ask me about anything related to PHP and other interesting stuffs  
+- ❓ Ask me about anything related to PHP, JS, React and other interesting stuffs  
   
 
 <br/>  
